@@ -1,6 +1,6 @@
 # Yosef-Yaynishet-Gebreyesus
 
-Howdy!
+Howdy!<br>
 My name is Yosef Gebreyesus, and I am a Ph.D. student at Texas A&M University in the Department of Civil and Environmental Engineering. My research focuses on the vulnerability assessment of aging wooden residential buildings subjected to seismic hazards. I work under the supervision of Dr. Koliou on a NSF CAREER-funded project.
 
 ## Education
