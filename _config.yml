@@ -2,5 +2,3 @@
 description: Ph.D. Student at Texas A&M University | Civil and Environmental Engineering  
 logo: /asset/img/Yosef.jpg  # Path to your profile image (update this path)
 theme: jekyll-theme-minimal  # You can change to other themes like 'jekyll-theme-cayman' or 'jekyll-theme-slate'
-show_downloads: false
-google_analytics:  # Optional: Add your tracking ID here (e.g., UA-XXXXXXXXX-X)
