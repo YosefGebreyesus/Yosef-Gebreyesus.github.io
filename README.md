@@ -7,8 +7,8 @@ With strong background in Structural Engineering, my PhD research focuses on the
 
 
 ## Education
-2019: Bsc in civil and environmental engineering fom the university technion israeli institute of technology
-2022: MSc in civil and envoronmental enfinnering fom the university technion israeli institute of technology
+2019: Bsc in civil and environmental engineering fom the university technion israeli institute of technology <br>
+2022: MSc in civil and envoronmental enfinnering fom the university technion israeli institute of technology<br>
 2023-present: PhD Student at Texas A&M University
 
 ## PUBLICATIONS
